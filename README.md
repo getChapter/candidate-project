@@ -8,14 +8,14 @@ You're tasked with building a simple website that allows users to search Medicar
 
 Don't spend more than 4 hours on this project.
 
-Remember - you're building an MVP, so prioritize functionality over performance. Worry less about performance and more that you build a complete, functional web app.
+Remember - you're building an MVP, so prioritize functionality over performance. Worry less about performance and more about building a complete, functional web app.
 
 ## Important Terms
 
 Health insurance is filled with dozens of confusing terms - here are a few that should help you out with this project.
 
 - Premium: the amount that you pay every month for the Medicare plan.
-- Bid ID: A unique identifier for Medicare plans. Of the form "H-xxx-xxx-x".
+- Bid ID: A unique identifier for Medicare Advantage plans. Of the form "H-xxx-xxx-x".
 
 ## Data Files
 
