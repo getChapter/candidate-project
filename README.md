@@ -15,7 +15,7 @@ Remember - you're building an MVP, so prioritize functionality over performance.
 Health insurance is filled with dozens of confusing terms - here are a few that should help you out with this project.
 
 - Premium: the amount that you pay every month for the Medicare plan.
-- Bid ID: A unique identifier for Medicare Advantage plans. Of the form "H-xxx-xxx-x".
+- Bid ID: A unique identifier for Medicare Advantage plans. Of the form "Hxxx-xxx-xxx".
 
 ## Data Files
 
